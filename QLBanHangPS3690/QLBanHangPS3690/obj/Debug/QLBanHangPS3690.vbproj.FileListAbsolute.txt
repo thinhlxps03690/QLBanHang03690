@@ -1,0 +1,62 @@
+D:\Điện toán đám mây\VB\QLBanHangPS3690\QLBanHangPS3690\bin\Debug\QLBanHangPS3690.exe.config
+D:\Điện toán đám mây\VB\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.vbprojResolveAssemblyReference.cache
+D:\Điện toán đám mây\VB\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.frmQuanLySanPham.resources
+D:\Điện toán đám mây\VB\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.Resources.resources
+D:\Điện toán đám mây\VB\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.vbproj.GenerateResource.Cache
+D:\Điện toán đám mây\VB\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.xml
+D:\Điện toán đám mây\VB\QLBanHangPS3690\QLBanHangPS3690\bin\Debug\QLBanHangPS3690.exe
+D:\Điện toán đám mây\VB\QLBanHangPS3690\QLBanHangPS3690\bin\Debug\QLBanHangPS3690.pdb
+D:\Điện toán đám mây\VB\QLBanHangPS3690\QLBanHangPS3690\bin\Debug\QLBanHangPS3690.xml
+D:\Điện toán đám mây\VB\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.exe
+D:\Điện toán đám mây\VB\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.pdb
+D:\Điện toán đám mây\VB\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.frmTimkimsanpham.resources
+C:\Users\User\Desktop\Coppy\QLBanHangPS3690\QLBanHangPS3690\bin\Debug\QLBanHangPS3690.exe.config
+C:\Users\User\Desktop\Coppy\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.exe
+C:\Users\User\Desktop\Coppy\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.xml
+C:\Users\User\Desktop\Coppy\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.pdb
+C:\Users\User\Desktop\Coppy\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Coppy\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.frmQuanLySanPham.resources
+C:\Users\User\Desktop\Coppy\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.frmTimkimsanpham.resources
+C:\Users\User\Desktop\Coppy\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.Resources.resources
+C:\Users\User\Desktop\Coppy\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Coppy\QLBanHangPS3690\QLBanHangPS3690\bin\Debug\QLBanHangPS3690.exe
+C:\Users\User\Desktop\Coppy\QLBanHangPS3690\QLBanHangPS3690\bin\Debug\QLBanHangPS3690.pdb
+C:\Users\User\Desktop\Coppy\QLBanHangPS3690\QLBanHangPS3690\bin\Debug\QLBanHangPS3690.xml
+C:\Users\User\Desktop\QLBanHAng\QLBanHangPS3690\QLBanHangPS3690\bin\Debug\QLBanHangPS3690.exe.config
+C:\Users\User\Desktop\QLBanHAng\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.exe
+C:\Users\User\Desktop\QLBanHAng\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.xml
+C:\Users\User\Desktop\QLBanHAng\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.pdb
+C:\Users\User\Desktop\QLBanHAng\QLBanHangPS3690\QLBanHangPS3690\bin\Debug\QLBanHangPS3690.exe
+C:\Users\User\Desktop\QLBanHAng\QLBanHangPS3690\QLBanHangPS3690\bin\Debug\QLBanHangPS3690.pdb
+C:\Users\User\Desktop\QLBanHAng\QLBanHangPS3690\QLBanHangPS3690\bin\Debug\QLBanHangPS3690.xml
+C:\Users\User\Desktop\QLBanHAng\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\QLBanHAng\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.frmQuanLySanPham.resources
+C:\Users\User\Desktop\QLBanHAng\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.frmTimkimsanpham.resources
+C:\Users\User\Desktop\QLBanHAng\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.Resources.resources
+C:\Users\User\Desktop\QLBanHAng\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\QLBanHAng\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.frmKhachhang.resources
+C:\Users\User\Desktop\QLBanHAng\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.frmTimKH.resources
+C:\Users\User\Desktop\QLBanHAng\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.frmDangNhap.resources
+C:\Users\User\Desktop\QLBanHAng\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.frmHoaDon.resources
+C:\Users\User\Desktop\QLBanHAng\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.frmMain.resources
+C:\Users\User\Desktop\thinhlxps03690_INF205_Asm\QLBanHangPS3690\QLBanHangPS3690\bin\Debug\QLBanHangPS3690.exe.config
+C:\Users\User\Desktop\thinhlxps03690_INF205_Asm\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.exe
+C:\Users\User\Desktop\thinhlxps03690_INF205_Asm\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.xml
+C:\Users\User\Desktop\thinhlxps03690_INF205_Asm\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.pdb
+C:\Users\User\Downloads\thinhlxps03690_INF205_AsignmentGD2\QLBanHangPS3690\QLBanHangPS3690\bin\Debug\QLBanHangPS3690.exe.config
+C:\Users\User\Downloads\thinhlxps03690_INF205_AsignmentGD2\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.exe
+C:\Users\User\Downloads\thinhlxps03690_INF205_AsignmentGD2\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.xml
+C:\Users\User\Downloads\thinhlxps03690_INF205_AsignmentGD2\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.pdb
+C:\Users\User\Downloads\thinhlxps03690_INF205_AsignmentGD2\QLBanHangPS3690\QLBanHangPS3690\bin\Debug\QLBanHangPS3690.exe
+C:\Users\User\Downloads\thinhlxps03690_INF205_AsignmentGD2\QLBanHangPS3690\QLBanHangPS3690\bin\Debug\QLBanHangPS3690.pdb
+C:\Users\User\Downloads\thinhlxps03690_INF205_AsignmentGD2\QLBanHangPS3690\QLBanHangPS3690\bin\Debug\QLBanHangPS3690.xml
+C:\Users\User\Downloads\thinhlxps03690_INF205_AsignmentGD2\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.vbprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\thinhlxps03690_INF205_AsignmentGD2\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.frmDangNhap.resources
+C:\Users\User\Downloads\thinhlxps03690_INF205_AsignmentGD2\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.frmHoaDon.resources
+C:\Users\User\Downloads\thinhlxps03690_INF205_AsignmentGD2\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.frmKhachhang.resources
+C:\Users\User\Downloads\thinhlxps03690_INF205_AsignmentGD2\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.frmMain.resources
+C:\Users\User\Downloads\thinhlxps03690_INF205_AsignmentGD2\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.frmQuanLySanPham.resources
+C:\Users\User\Downloads\thinhlxps03690_INF205_AsignmentGD2\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.frmTimKH.resources
+C:\Users\User\Downloads\thinhlxps03690_INF205_AsignmentGD2\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.frmTimkimsanpham.resources
+C:\Users\User\Downloads\thinhlxps03690_INF205_AsignmentGD2\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.Resources.resources
+C:\Users\User\Downloads\thinhlxps03690_INF205_AsignmentGD2\QLBanHangPS3690\QLBanHangPS3690\obj\Debug\QLBanHangPS3690.vbproj.GenerateResource.Cache
